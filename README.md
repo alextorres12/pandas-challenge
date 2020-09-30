@@ -6,14 +6,14 @@ Northwestern University Data Science Boot Camp
 ## PyCity Schools
 This script will take two different CSVs of school district data (one for school-level data and another for student-level data) and perform various analyses to summarize, organize, and highlight trends in the data. The script is broken up into the following 8 major sections in order to reveal test scores, budgets, school types, and school sizes:
 
--District Level Summary
--School Level Summary
--Top 5 Performing Schools by % Overall Passing test scores
--Bottom 5 Performing Schools by % Overall Passing test scores
--School Math Scores by Grade
--School Reading Scores by Grade
--Test Scores by School Size
--Test Scores by School Type
+- District Level Summary
+- School Level Summary
+- Top 5 Performing Schools by % Overall Passing test scores
+- Bottom 5 Performing Schools by % Overall Passing test scores
+- School Math Scores by Grade
+- School Reading Scores by Grade
+- Test Scores by School Size
+- Test Scores by School Type
 
 ## Observable Trends
 1. Charter schools tend to perform better than District schools. When grouping by school type, Charter schools reflect a much higher percentage of students that pass both Math and Reading tests. 
